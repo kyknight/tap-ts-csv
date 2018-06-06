@@ -1,0 +1,7 @@
+var typedoc = typedoc || {};
+            typedoc.search = typedoc.search || {};
+<<<<<<< HEAD
+            typedoc.search.data = {"kinds":{"1":"External module","32":"Variable","128":"Class"},"rows":[{"id":0,"kind":1,"name":"\"tap-ts-starter\"","url":"modules/_tap_ts_starter_.html","classes":"tsd-kind-external-module"},{"id":1,"kind":128,"name":"DummyClass","url":"classes/_tap_ts_starter_.dummyclass.html","classes":"tsd-kind-class tsd-parent-kind-external-module","parent":"\"tap-ts-starter\""},{"id":2,"kind":32,"name":"csvFilePath","url":"modules/_tap_ts_starter_.html#csvfilepath","classes":"tsd-kind-variable tsd-parent-kind-external-module tsd-is-not-exported","parent":"\"tap-ts-starter\""},{"id":3,"kind":32,"name":"csv","url":"modules/_tap_ts_starter_.html#csv","classes":"tsd-kind-variable tsd-parent-kind-external-module tsd-is-not-exported","parent":"\"tap-ts-starter\""}]};
+=======
+            typedoc.search.data = {"kinds":{"1":"External module","64":"Function","128":"Class"},"rows":[{"id":0,"kind":1,"name":"\"tap-main\"","url":"modules/_tap_main_.html","classes":"tsd-kind-external-module"},{"id":1,"kind":128,"name":"DummyClass","url":"classes/_tap_main_.dummyclass.html","classes":"tsd-kind-class tsd-parent-kind-external-module","parent":"\"tap-main\""},{"id":2,"kind":64,"name":"mainFunction","url":"modules/_tap_main_.html#mainfunction","classes":"tsd-kind-function tsd-parent-kind-external-module tsd-is-not-exported","parent":"\"tap-main\""}]};
+>>>>>>> 3cb98bb97ac99d0e2d2a299c63c32e788f5f29d6

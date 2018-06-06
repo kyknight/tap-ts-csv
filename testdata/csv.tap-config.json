@@ -1,0 +1,5 @@
+﻿{
+    "target_folder" : "./testdata/csv",
+    "start_date" : "2018-01-01T00:00:00Z",
+    "user_agent" : "Stitch (+support@stitchdata.com)"
+  }
